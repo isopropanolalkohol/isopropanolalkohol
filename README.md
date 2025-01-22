@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# GitHub profile of isopropanolalkohol
+my name is Joshi and I am interested in back end development. I love challenges and if you need someone for open source projects, hit me up. 
+# Tech stack:
 <!--
 **isopropanolalkohol/isopropanolalkohol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
