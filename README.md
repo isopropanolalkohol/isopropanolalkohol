@@ -32,4 +32,4 @@ Further I adore the language C, it is perfect (apart the damn segfaults). C++ is
 
 # Other stuff:
 
-![AoC Stats](https://github-readme-stats.vercel.app/api?username=isopropanolalkohol&custom_title=Advent%20of%20Code%20Stats)  
+<!--[AoC Stats](https://github-readme-stats.vercel.app/api?username=isopropanolalkohol&custom_title=Advent%20of%20Code%20Stats)  
