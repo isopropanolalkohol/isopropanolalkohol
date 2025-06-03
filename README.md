@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 I love database design, I'd love to create some new projects involving a database. I gained a lot of experience by creating my own program communicating via a MySQL database server. 
 
 Further I adore the language C, it is perfect (apart the damn segfaults). C++ is a great language, I'd love to learn new stuff at it. Still waiting to learn new!
+
+# Other stuff:
+
+![AoC Stats](https://github-readme-stats.vercel.app/api?username=deinGitHubName&custom_title=Advent%20of%20Code%20Stats)  
