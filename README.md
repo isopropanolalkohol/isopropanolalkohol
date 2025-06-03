@@ -2,7 +2,7 @@
 my name is Joshi and I am interested in back end development. I love challenges and if you need someone for open source projects, hit me up. 
 # Tech stack:
 
-my programming languages:
+my programming languages:  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
